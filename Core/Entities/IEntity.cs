@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entities.Abstract
+namespace Core.Entities
 {
     /// <summary>
-    /// Bunu implemente eden class bir veritabanı tablosudur.
+    /// Bunu implemente eden class bir veritabanı tablosu olduğunu anlamalıyım!
     /// </summary>
     public interface IEntity
     {
